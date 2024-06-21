@@ -91,7 +91,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 # Acknowledgements
 
-This project is inspired by [Coddy](https://coddy.net)
+This project is inspired by [Coddy](https://coddy.tech)
 
 
 Made with 🤍 by [Ephraim Abstaina](https://github.com/Abstaina44)
