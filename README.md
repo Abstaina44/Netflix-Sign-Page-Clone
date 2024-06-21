@@ -59,11 +59,16 @@ You can either double-click the index.html file in the project directory or open
 The project directory contains the following files:
 
 Netflix-Sign-in-Page-Clone/
+
 ├── index.html
+
 ├── styles.css
+
 ├── script.js
+
 └── assets/
     └── logo.svg
+
 index.html: The main HTML file that contains the structure of the sign-in page.
 styles.css: The CSS file that contains the styles for the sign-in page.
 script.js: The JavaScript file that contains the interactivity and form validation logic.
@@ -86,6 +91,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 # Acknowledgements
 
-This project is inspired by the coddy.net
+This project is inspired by [Coddy](https://coddy.net)
 
-Made with 🤍 by Ephraim Abstaina.
+
+Made with 🤍 by [Ephraim Abstaina](https://github.com/Abstaina44)
