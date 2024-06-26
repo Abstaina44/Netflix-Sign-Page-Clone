@@ -1,4 +1,4 @@
-# Netflix Sign-in Page Clone
+# Netflix Sign-in Page Clone..
 
 Welcome to the Netflix Sign-in Page Clone project! This repository contains the code for a clone of the Netflix sign-in page, built with HTML, CSS, and JavaScript. The purpose of this project is to practice and demonstrate front-end web development skills by recreating a well-known and widely-used web page.
 
